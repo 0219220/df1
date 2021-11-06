@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'Bangers', cursive;
+    src: url(https://fonts.google.com/specimen/Bangers#standard-styles);
+}
+
+
+
+
+
+
+.title{
+    font-family: 'Bangers', cursive;
+    font-weight: 700;
+    
+    color: hsl(54, 90%, 49%);
+    text-align: center;
+    font-size: 45px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+ 
+
+.subtitle{
+    font-family: 'Bangers', cursive;
+    font-weight: 700;
+    font-size: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: hsl(186, 15%, 59%);
+}
+
+.searchbar{
+    font-family: 'Bangers', cursive;
+    font-weight: 700 ;
+    font-size: 10px;
+    background-color: hsl(185, 41%, 86%);
+    border: none;
+    border-radius: 3px;
+    
+    color:hsl(0, 0%, 85%);
+    text-align: right;
+
+    background-image: url("images/icon-dollar.svg");
+    background-position: left;
+    background-repeat: no-repeat;
+} 
+
+
+
+.subtitle2{
+    font-family: 'Bangers', cursive;
+    font-weight: 400;
+    padding-left: 5px;
+    font-size: 13px;
+    color: hsl(0, 0%, 0%);
+}
+
+
+
+
+.borderr{
+    border: none;
+    border-radius: 15px;
+   background-color: hsl(183, 100%, 15%);
+   padding-bottom: 5px;
+}
+
+.borderg{
+    border: none;
+    border-radius: 15px;
+    background-color: white;
+    padding: 20px;
+}
+
+
+.inputc{
+    height: 30px;
+    width: 120px;
+}
+
+.not-found {
+    display: none; 
+    font-family: 'Bangers', cursive;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+  
